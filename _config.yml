@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: BuySXOS Blogs
+name: BuySxOS Blog
 description:  Latest information about Switch's most complete custom firmware.
   Guides, help and tips to keep SX OS's users always updated.
 
@@ -11,16 +11,16 @@ url: http://blog.buysxos.com
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: ''
 
-author: BuySXOS Team
+author: BuySxOS Team
 copyright: 2018-2019
 
 share:
-  facebook: true
-  twitter: true
-  gplus: true
-  linkedin: true
-  pinterest: true
-  email: true
+  facebook: false
+  twitter: false
+  gplus: false
+  linkedin: false
+  pinterest: false
+  email: false
 
 social:
   github: buysxos
